@@ -1,0 +1,9 @@
+.userBio {
+    box-shadow: black 0 0 12px;
+    width: 600px;
+    margin: auto ;
+    background-color: antiquewhite;
+    height: 400px;
+    padding: 20px 0;
+    text-align: center;
+} 
