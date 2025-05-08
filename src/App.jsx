@@ -2,11 +2,11 @@ import { useState } from 'react'
 import { Form } from './components/form/form'
 import './App.css'
 
-function App() {
+function App({data}) {
 
   return (
     <>
-        <Form />
+        <Form data = {data}/>
     </>
   )
 }
