@@ -1,15 +1,8 @@
-.active {
+.register {
     background-color: white;
     max-width: 840px;
     margin: auto;
     border-radius: 15px;
-    transform: translateY(0);
-    z-index: 2;
-}
-
-.passive {
-    transform: translateY(-120%);
-    z-index: 2;
 }
 
 .header {
@@ -61,4 +54,8 @@ button {
     width: 80%;
     padding: 4px 8px;
     border: 1px solid red;
+}
+
+.inpError {
+    color: red;
 }
